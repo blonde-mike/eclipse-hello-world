@@ -1,0 +1,65 @@
+1. (4 points) What is the purpose of CS 329 and why is it important?
+"The goal is to teach sound engineering principles to ensure and assure quality at each stage of the life-cycle with an emphasis in early stages on testing techniques, dynamic and static program analysis, and formal verification for high assurance systems. Practical application to software artifacts and algorithm implementation connects the course material to real world application in the field."
+
+2. (3 points) Name three things that interest you that you should be able to do at the end of this course?
+ - Proficiently document code.
+ - Habitually implement healthy testing practices.
+ - Thoroughly verify code.
+
+3. (5 points) A 10 point homework is due Friday, January 5, 2018. Assuming all questions are answered correctly, then how many points is it scored for each of the below submission dates?
+ - Wednesday, January 3 - 10 points
+ - Saturday, January 6 - 9 points
+ - Sunday, January 7 - 9 points
+ - Monday, January 8 - 9 points
+ - Friday, January 12 - 6 points
+ 
+4. (3 point) A 10 point lab is also due Friday, January 5, 2018. Assuming it is done correctly, how many points is it scored for each of the below dates?
+ - Tuesday, January 2 - 12 points
+ - Thursday, January 4 - 12 points
+ - Sunday, January 7 - 9 points
+ 
+5. (2 points) What is the role of the TAs and what is the minimum time between visits?
+"TAs are ready and eager to assist with learning, and they will often sit with you to read the book to help you learn how to make sense of it, or spend some time on the internet searching concepts with you to connect you with other resources for learning. And yet other times they will ask you to work problems and provide you with needed feedback. In all these situations, they are trained to not give answers or solutions but rather guide your learning so that you can discover the answers and solutions."
+"The minimum time between visits by the same student should be at least 30 minutes to internalize concepts."
+
+6. (2 points) How do TAs decide the order of students to help? Where are the TAs located?
+Order will be determined based on load.
+"TAs are located in 1058 TMCB in cubicle 22."
+
+7. (1 point) How do you appeal a grading concern or other issue in the course?
+"Concerns with grading or policy should be submitted in writing to cs329ta@cs.byu.edu within one week of the posted score. Either a TA or the course instructor will contact the submitter directly to resolve the concern."
+
+8. (4 points) What are the different types of cheating identified in the syllabus?
+ - Finding solutions to labs and assignments online
+ - Using another student's work
+ - Failing to participate in group activities
+ - Providing solutions to other students 
+
+9. (2 points) What is the correct way to do group learning activities?
+"[T]he programmers sit shoulder to shoulder during the entire code planning, writing, and debugging; they evenly split coding time as 'driver' or 'navigator', and everyone is actively involved in every line of code."
+
+10. (2 points) What are two study habits on the syllabus that you want to improve this semester?
+ - Attempt learning activities before the due date and ask questions on those activities in class.
+ - Come to class and pay attention.
+
+11. (2 points) How do you grow intellect?
+"A student's intellect...grows with experience through honest effort. Be patient yet persistent. Expect to spend an extraordinary amount of time on some topics before gaining understanding. Although the process can be frustrating, intellect does grow with effort and experience, and a determined focus to learn is what is needed to be successful."
+
+12. (1 point) What is University policy on reporting sexual misconduct? Where is it reported?
+ - "In accordance with Title IX of the Education Amendments of 1972, Brigham Young University prohibits unlawful sex discrimination against any participant in its education programs or activities. The university also prohibits sexual harassment—including sexual violence—committed by or against students, university employees, and visitors to campus. As outlined in university policy, sexual harassment, dating violence, domestic violence, sexual assault, and stalking are considered forms of “Sexual Misconduct” prohibited by the university."
+ - "Incidents of Sexual Misconduct should be reported to the Title IX Coordinator at t9coordinator@byu.edu or (801) 422-8692. Reports may also be submitted through EthicsPoint at https://titleix.byu.edu/report or 1-888-238-1062 (24-hours a day)."
+
+13. (2 points) If you are a victim of sexual misconduct or know of sexual misconduct, who can you contact for help?
+"BYU offers confidential resources for those affected by Sexual Misconduct, including the university’s Victim Advocate, as well as a number of non-confidential resources and services that may be helpful."
+
+14. (2 points) What is the university policy for an incomplete grade?
+"BYU Learning Suite does not currently support submitting the letter grade I (incomplete) during final grade submission.
+If an instructor needs to give a student an incomplete grade (I), the instructor should leave the grade blank when submitting final grades. It will post as an E and the Registrar’s Office will automatically send a request for failing grade information for financial aid purposes. In that request, the instructor should click on the I option. A message will appear notifying the instructor the student’s grade will remain an E until the Registrar’s Office receives an Incomplete Grade Contract from the student. If the student sent the contract before grades were submitted, the I already appears."
+
+15. (3 points) What is the date of the add/drop deadline for this semester? What about the withdraw deadline? The discontinuance deadline?
+ - 14 Jan 2019
+ - 11 Feb 2019
+ - 3 April 2019
+
+16. (4 points) What scares you the most about this course?
+Honestly, I'm not a big fan of Java. I've had real problems with Android Studio and Java in general. I hope that using Eclipse will make it easier, but Java is probably one of my least favorite languages.
